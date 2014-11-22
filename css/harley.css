@@ -1,0 +1,38 @@
+body {
+  padding-left: 5em;
+  color: black;
+  background-image:url('../images/SPECKLEB.GIF');
+  background-color: #cecece;
+  font-family:verdana,helvetica,sans-serif;
+}
+h1{
+font-family:verdana,helvetica, sans-serif;
+font-weight:bold;
+font-style:normal;
+}
+h2{
+font-family:verdana,helvetica, sans-serif;
+font-weight:normal;
+font-style:normal;
+}
+h3{
+font-family:verdana,helvetica, sans-serif;
+font-weight:normal;
+font-style:normal;
+}
+h4{
+font-family:verdana,helvetica, sans-serif;
+font-weight:normal;
+font-style:normal;
+}
+h5{
+font-family:verdana,helvetica, sans-serif;
+font-weight:normal;
+font-style:normal;
+}
+h6{
+font-family:verdana,helvetica, sans-serif;
+font-weight:normal;
+font-style:italic;
+}
+

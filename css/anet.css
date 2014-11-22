@@ -1,0 +1,36 @@
+body {
+  padding-left: 5em;
+  color: black;
+  background-color: #ffffff;
+  font-family:verdana,helvetica,sans-serif;
+}
+h1{
+font-family:verdana,helvetica,sans-serif;
+font-weight:bold;
+font-style:normal;
+}
+h2{
+font-family:verdana,helvetica,sans-serif;
+font-weight:normal;
+font-style:normal;
+}
+h3{
+font-family:verdana,helvetica,sans-serif;
+font-weight:bold;
+font-style:normal;
+}
+h4{
+font-family:verdana,helvetica,sans-serif;
+font-weight:normal;
+font-style:italic;
+}
+h5{
+font-family:verdana,helvetica,sans-serif;
+font-weight:normal;
+font-style:normal;
+}
+h6{
+font-family:verdana,helvetica,sans-serif;
+font-weight:normal;
+font-style:italic;
+}

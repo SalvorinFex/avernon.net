@@ -1,0 +1,49 @@
+* {
+	margin:25px ;
+}
+body {
+    padding-left: 5em;
+    color: black;
+    background-image: url(../images/Tanned%20Hide.gif);
+}
+html, body {
+	height: 100%;
+}
+
+#h1{
+    text-align: center;
+}
+#h2{
+    text-align: center;
+}
+#p1{
+    text-align: left;
+}
+#p2{
+    text-align: left;
+}
+IMG.sketchers_toy {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+IMG.sketchers_bed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+IMG.connie_sig {
+    display: block;
+    margin-left: 50px;
+margin-right: auto
+}
+IMG.kurt_sig {
+    display: block;
+    margin-left: 50px;
+margin-right: auto
+}
+
+.footer, .push {
+	height: 142px;
+}

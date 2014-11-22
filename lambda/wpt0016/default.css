@@ -1,0 +1,117 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #FFFFFF;
+}
+
+form {
+	margin: 0px;
+	padding: 0px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0px;
+}
+
+body, th, td, input, textarea, select {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #6A3208;
+}
+
+p, blockquote, ul, ol, dl {
+	margin-top: 0px;
+	margin-bottom: 1em;
+	text-align: justify;
+}
+
+a {
+	color: #4C2204;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.text1 {
+	color: #666666;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.text2 {
+	color: #4C2204;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.text3 {
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	letter-spacing: -1px;
+	color: #FFFFFF;
+}
+
+.text4 {
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.style1 {
+	text-transform: uppercase;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.style1 a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.style1 a:hover {
+	text-decoration: underline;
+}
+
+.bg1 {
+	background: url(images/img1.gif) repeat-x left top;
+}
+
+.bg2 {
+	background: url(images/img2.jpg) no-repeat left top;
+}
+
+.bg3 {
+	background: url(images/img3.gif) repeat-x left top;
+}
+
+.align-justify { text-align: justify; }
+.align-right { text-align: right; }
+
+img { border: none; }
+
+.img1 {
+	float: left;
+	margin: 3px 15px 0px 0px;
+}
+
+.img2 {
+	float: right;
+	margin: 3px 0px 0px 15px;
+}
+
+hr { display: none; }
+
+.hr1 {
+	height: 1px;
+}
+
